@@ -296,5 +296,17 @@ img {
 
   .team img {
     width: 70%;
+    height: 70%;
+  }
+  #contact .column-2 h2 {
+    display: flex;
+    justify-content: flex-start;
+    text-align: center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+  }
+
+  .contact .column .column-2 {
+    height: 80vh;
   }
 }
